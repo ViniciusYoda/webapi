@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	AluraHub  
+	AluraHub  -
 </h4>
 
 <p align="center">
